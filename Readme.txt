@@ -20,4 +20,4 @@ GitHub API Test
 
 ## Запуск теста
 
-Запустите тест с помощью следующей команды: pytest test_git_api.py или через Pycharm
+Запустите тест с помощью следующей команды: pytest test_api.py или через Pycharm
